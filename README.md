@@ -1,20 +1,22 @@
-- res(이미지)
+ERC 721 프로젝트
 
-  1. layers 준비
-  2. 이미지 빌드
+-res(이미지)
 
-  ```
-  npm run build
-  ```
+1. layers 준비
+2. 이미지 빌드
 
-  3. 이미지 업로드 (피나타)
-  4. 메타데이터 업데이트
+```
+npm run build
+```
 
-  ```
-  npm run update:metadata
-  ```
+3. 이미지 업로드 (피나타)
+4. 메타데이터 업데이트
 
-  5. 메타데이터 업로드 (피나타)
+```
+npm run update:metadata
+```
+
+5. 메타데이터 업로드 (피나타)
 
 - contracts
 
